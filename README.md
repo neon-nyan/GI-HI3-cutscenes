@@ -1,6 +1,6 @@
-﻿# GI-cutscenes
+﻿# GI-HI3-cutscenes
 
-A command line program playing with the cutscenes files (USM) from Genshin Impact.
+A command line program playing with the cutscenes files (USM) from Genshin Impact and Honkai Impact 3 (Still planning).
 
 It is able to demux USM files, decrypt video and audio tracks, convert HCA files to WAV, convert SRT subtitles into ASS and merge all these extracted files into a single MKV file.
 The final MKV file can then be played like a small movie, with the subtitles correctly formatted like in the game. Sometimes, subtitles can be desynchronized with the audio, but that's also the case in game (and not this tool's fault).
